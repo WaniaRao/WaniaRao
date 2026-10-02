@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./developer-banner.gif" width="100%">
+  <img src="./developer-banner.gif" width="100%" alt="Wania Rao Developer Banner">
+</p>
    
 </p># Hi, I'm Wania 👋
 
