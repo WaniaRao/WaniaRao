@@ -2,7 +2,7 @@
   <img src="./developer-banner.gif" width="100%" alt="Wania Rao Developer Banner">
 </p>
    
-</p># Hi, I'm Wania 👋
+# Hi, I'm Wania 👋
 
 ### 💻 Aspiring Full-Stack Developer | Modern Web Development
 
