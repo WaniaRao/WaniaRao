@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./developer-banner.gif" width="100%" alt="Wania Rao Developer Banner">
-</p>
+assest/about.svg
    
 # Hi, I'm Wania 👋
 
