@@ -1,1 +1,1 @@
-<img src="./asset/Wania_Rao_animated_profile.gif" alt="Wania Rao Animated Profile" width="100%">
+<img src="https://raw.githubusercontent.com/WaniaRao/WaniaRao/main/asset/Wania_Rao_animated_profile.gif" width="100%">
