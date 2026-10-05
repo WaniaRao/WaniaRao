@@ -1,3 +1,6 @@
+<p align="center">
+<a href ="https://github.com/Umra-Badar20"><img src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" alt="Coding Software Developer Sticker by Boolean Careers" style="height: 250px; left: 0px; top: 0px;"></a>&nbsp
+</p>
 # Hi, I'm Wania 👋
 
 ### 💻 Aspiring Full-Stack Developer | Modern Web Development
