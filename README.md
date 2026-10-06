@@ -54,7 +54,9 @@ Web Development  ███████░░░░  65%
 ## 🎯 My Goal
 
 To become a skilled Full-Stack Developer and build modern, creative and useful digital experiences.
-
+   <p align="center">
+<a href ="https://github.com/WaniaRao/"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZW1zYnV2MGlycHZiM2NtbXh4YWJsbGszemg3ZGhhMno0bXQ0cnE3bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" alt="Coding Software Developer Sticker by gifhy" style="height: 250px; left: 0px; top: 0px;"></a>&nbsp
+</p>
 ## 📂 Featured Projects
 
 Check out my repositories to see some of the projects I've built while learning and improving my development skills.
