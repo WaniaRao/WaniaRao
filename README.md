@@ -40,19 +40,24 @@
 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> 
+
+<img src="https://img.shields.io/badge/Graphic_Design-FF69B4?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
 
  <p align="center">
 <a href ="https://github.com/WaniaRao/"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZW1zYnV2MGlycHZiM2NtbXh4YWJsbGszemg3ZGhhMno0bXQ0cnE3bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" alt="Coding Software Developer Sticker by gifhy" style="height: 250px; left: 0px; top: 0px;"></a>&nbsp
 </p>
 
-<h3> 📚 Currently Learning</h3>
+<h3> 📚My Skills & Expertise</h3>
 
 ```text
-JavaScript       █████████░░  80%
-HTML & CSS       ██████████░  90%
-Git & GitHub     ██████████░  90%
-Web Development  ███████░░░░  65%
+JavaScript          ████████░░  80%
+HTML & CSS          █████████░  90%
+Git & GitHub        █████████░  90%
+Web Development     ██████▌░░░  65%
+Canva               █████████░  90%
+Graphic Design      ████████▌░ 85%
 ```
 
 <h3>🎯 My Goal</h3>
